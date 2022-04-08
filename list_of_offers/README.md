@@ -1,3 +1,18 @@
+# Props в React
+
+:white_check_mark: Атрибуты без значения
+
+:white_check_mark: defaultProps
+
+:white_check_mark: Условный рендеринг
+
+:white_check_mark: Списки элементов, key
+
+:white_check_mark: Render Props
+
+:white_check_mark: Компонеты без состояния
+_____
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
